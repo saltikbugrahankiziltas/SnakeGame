@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1653827457 source:c:\users\bugra\desktop\yýlan oyunu geliþtirme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+
+1653943248 source:c:\users\bugra\desktop\proje taslaðý\yýlan oyunu geliþtirme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+
